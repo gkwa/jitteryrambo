@@ -1,0 +1,13 @@
+* jitteryrambo
+
+** summary 
+
+Learn how to catch aws api call authenticate errors.
+
+** usage
+
+Example:
+#+begin_example
+make 
+./jitteryrambo
+#+end_example
